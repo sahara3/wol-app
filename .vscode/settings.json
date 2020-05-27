@@ -1,0 +1,16 @@
+{
+  "eslint.validate": [
+    "javascript",
+    "vue"
+  ],
+  "editor.detectIndentation": false,
+  "editor.tabSize": 4,
+  "[html]": {
+    "editor.tabSize": 2,
+  },
+  "[json]": {
+    "editor.tabSize": 2,
+  },
+  "vetur.format.options.tabSize": 4,
+  "vetur.format.options.useTabs": false,
+}
